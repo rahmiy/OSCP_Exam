@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Initial Page](README.md)
-* [OSCP Exam Overview](oscp-exam-overview.md)
+* [My OSCP Notes](README.md)
 * [Important Links](important-links.md)
+* [OSCP Exam Overview](oscp-exam-overview.md)
 * [Summary](summary.md)
 
 ## Information Gathering
@@ -22,6 +22,12 @@
     * [3.1.7 SNMP Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.6-snmp-enumeration.md)
     * [Other Service Enumeration](information-gathering/3.-information-gathering-active/enumeration/other-service-enumeration.md)
   * [3.2 Fuzzing](information-gathering/3.-information-gathering-active/3.2-fuzzing.md)
-* [Untitled](information-gathering/untitled.md)
-* [Untitled](untitled.md)
+
+## Technical Notes
+
+* [Untitled](technical-notes/untitled.md)
+
+## Useful Tools
+
+* [Useful tools](useful-tools/useful-tools.md)
 
