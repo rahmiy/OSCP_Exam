@@ -14,5 +14,7 @@
   * [3.1.2 LDAP Enumeration](active-information-gathering/enumeration/ldap-enumeration.md)
   * [3.1.3 NetBIOS Enumeration](active-information-gathering/enumeration/enumeration-1.md)
   * [3.1.4 SMB Enumeration](active-information-gathering/enumeration/3.1.4-smb-enumeration.md)
+  * [3.1.5 SMTP Enumeration](active-information-gathering/enumeration/3.1.5-smtp-enumeration.md)
+  * [3.1.6 SNMP Enumeration](active-information-gathering/enumeration/3.1.6-snmp-enumeration.md)
 * [Untitled](untitled.md)
 
