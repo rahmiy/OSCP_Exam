@@ -27,7 +27,3 @@
 
 * [Untitled](technical-notes/untitled.md)
 
-## Useful Tools
-
-* [Useful tools](useful-tools/useful-tools.md)
-
