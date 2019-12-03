@@ -1,0 +1,12 @@
+---
+description: >-
+  This is a demonstration article. Thanks to DigiNinja to sharing domains to 
+  public for training and learning purposes.
+---
+
+# 3.1.1 DNS Enumeration
+
+Link : [https://digi.ninja/projects/zonetransferme.php](https://digi.ninja/projects/zonetransferme.php)
+
+Tutorial link : [https://www.youtube.com/watch?v=kdYnSfzb3UA](https://www.youtube.com/watch?v=kdYnSfzb3UA)
+

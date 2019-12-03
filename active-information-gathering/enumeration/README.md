@@ -2,7 +2,7 @@
 description: Enumerating means to list.
 ---
 
-# Enumeration
+# 3. Enumeration
 
 It is a very general term to me, as listing could be of anything. To me enumeration is most important part of pentesting. Before beginning an attack, we do not know anything about our victim. So we use information gathering to gather more info on our victim. To gather information, we look first for passive information present of the victim. After this we move to active information gathering.
 
