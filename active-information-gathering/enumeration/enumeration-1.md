@@ -1,4 +1,4 @@
-# 3.1.3 NetBIOS Enumeration
+# 3.1.4 NetBIOS Enumeration
 
 ![](../../.gitbook/assets/image-53.png)
 

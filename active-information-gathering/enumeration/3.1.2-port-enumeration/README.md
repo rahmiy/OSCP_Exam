@@ -1,0 +1,8 @@
+# 3.1.2 Port Enumeration
+
+Tools used for port enumeration :
+
+1. Nmap - slow, less efficient, but deep scanning.
+2. Unicornscan - efficient, best use is to get list of ports that are open
+3. masscan - efficient, best use is to get list of ports that are open
+
