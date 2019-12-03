@@ -3,6 +3,7 @@
 * [Initial Page](README.md)
 * [OSCP Exam Overview](oscp-exam-overview.md)
 * [Important Links](important-links.md)
+* [Summary](summary.md)
 
 ## Information Gathering
 
