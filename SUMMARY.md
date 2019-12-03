@@ -6,7 +6,7 @@
 
 ## 1. Active Information Gathering <a id="active-information-gathering"></a>
 
-* [3. Enumeration](active-information-gathering/enumeration/README.md)
+* [3.1 Enumeration](active-information-gathering/enumeration/README.md)
   * [3.1.1 DNS Enumeration](active-information-gathering/enumeration/3.1.1-dns-enumeration/README.md)
     * [3.1.1.1 Basic DNS Enumeration](active-information-gathering/enumeration/3.1.1-dns-enumeration/dns-enumeration.md)
     * [3.1.1.2 DNS Zone Transfer](active-information-gathering/enumeration/3.1.1-dns-enumeration/dns-zone-transfer-practical.md)
