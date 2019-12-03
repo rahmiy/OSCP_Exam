@@ -2,7 +2,7 @@
 description: Light Weight Active Directory Protocol
 ---
 
-# LDAP Enumeration
+# 3.1.2 LDAP Enumeration
 
 LDAP runs on the below TCP ports
 

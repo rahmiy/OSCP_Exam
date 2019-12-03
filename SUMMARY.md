@@ -11,7 +11,8 @@
     * [3.1.1.1 Basic DNS Enumeration](active-information-gathering/enumeration/3.1.1-dns-enumeration/dns-enumeration.md)
     * [3.1.1.2 DNS Zone Transfer](active-information-gathering/enumeration/3.1.1-dns-enumeration/dns-zone-transfer-practical.md)
     * [3.1.1.3 Brute Force DNS lookup](active-information-gathering/enumeration/3.1.1-dns-enumeration/3.1.1.3-brute-force-dns-lookup.md)
-  * [LDAP Enumeration](active-information-gathering/enumeration/ldap-enumeration.md)
-  * [index](active-information-gathering/enumeration/enumeration-1.md)
+  * [3.1.2 LDAP Enumeration](active-information-gathering/enumeration/ldap-enumeration.md)
+  * [3.1.3 NetBIOS Enumeration](active-information-gathering/enumeration/enumeration-1.md)
+  * [3.1.4 SMB Enumeration](active-information-gathering/enumeration/3.1.4-smb-enumeration.md)
 * [Untitled](untitled.md)
 
