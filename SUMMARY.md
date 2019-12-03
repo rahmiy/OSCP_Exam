@@ -4,7 +4,7 @@
 * [OSCP Exam Overview](oscp-exam-overview.md)
 * [Important Links](important-links.md)
 
-## Active Information Gathering
+## 1. Active Information Gathering <a id="active-information-gathering"></a>
 
 * [Enumeration](active-information-gathering/enumeration/README.md)
   * [Untitled](active-information-gathering/enumeration/enumeration-1.md)
