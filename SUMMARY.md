@@ -10,7 +10,6 @@
   * [3.1.1 DNS Enumeration](active-information-gathering/enumeration/3.1.1-dns-enumeration/README.md)
     * [3.1.1.1 Basic DNS Enumeration](active-information-gathering/enumeration/3.1.1-dns-enumeration/dns-enumeration.md)
     * [3.1.1.2 DNS Zone Transfer](active-information-gathering/enumeration/3.1.1-dns-enumeration/dns-zone-transfer-practical.md)
-    * [3.1.1.2 DNS Zone Transfer](active-information-gathering/enumeration/3.1.1-dns-enumeration/3.1.1.2-dns-zone-transfer.md)
   * [LDAP Enumeration](active-information-gathering/enumeration/ldap-enumeration.md)
   * [index](active-information-gathering/enumeration/enumeration-1.md)
 * [Untitled](untitled.md)
