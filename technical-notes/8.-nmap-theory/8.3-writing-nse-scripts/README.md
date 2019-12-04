@@ -15,6 +15,8 @@ description: >-
 5. **`dependencies` Field -**  The `dependencies` field is an array containing the names of scripts that should run before this script
 6. **`action` Field -**  the instructions to be executed when the script's prerule, portrule, hostrule or postrule triggers.
 
+![](../../../.gitbook/assets/image-71.png)
+
 ## NSE Script Environment Variables
 
 Each script has its own environment variable.
