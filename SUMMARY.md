@@ -40,6 +40,8 @@
   * [4.1 Using HFS](technical-notes/4.-file-transfer/4.1-using-hfs.md)
   * [4.2 Using SCP](technical-notes/4.-file-transfer/4.2-using-scp.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
+* [7. Metasploit Framework](technical-notes/7.-metasploit-framework.md)
+* [Example](technical-notes/example.md)
 * [8. Nmap - Theory](technical-notes/8.-nmap-theory/README.md)
   * [8.1 Understanding Open, Closed and Filtered Ports](technical-notes/8.-nmap-theory/8.1-understanding-open-closed-and-filtered-ports.md)
   * [8.2 NSE scripts - Theory](technical-notes/8.-nmap-theory/8.2-nse-scripts-theory/README.md)
