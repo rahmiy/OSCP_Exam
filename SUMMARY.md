@@ -25,5 +25,11 @@
 
 ## Technical Notes
 
-* [Untitled](technical-notes/untitled.md)
+* [1. DNS](technical-notes/untitled/README.md)
+  * [1.1 DNS - Basic Enumeration](technical-notes/untitled/1.1-dns-basic-enumeration.md)
+  * [1.2 DNS - Terminologies](technical-notes/untitled/1.2-dns-terminologies.md)
+  * [1.3 DNS - Hierarchy](technical-notes/untitled/1.3-dns-hierarchy.md)
+  * [1.4 DNS - Record Types](technical-notes/untitled/1.4-dns-record-types.md)
+  * [1.5 DNS Zone transfers - Theory](technical-notes/untitled/1.5-dns-zone-transfers-theory.md)
+  * [1.6 Forward and Reverse DNS lookups](technical-notes/untitled/1.6-forward-and-reverse-dns-lookups.md)
 
