@@ -32,4 +32,7 @@
   * [1.4 DNS - Record Types](technical-notes/untitled/1.4-dns-record-types.md)
   * [1.5 DNS Zone transfers - Theory](technical-notes/untitled/1.5-dns-zone-transfers-theory.md)
   * [1.6 Forward and Reverse DNS lookups](technical-notes/untitled/1.6-forward-and-reverse-dns-lookups.md)
+* [index](technical-notes/untitled-1.md)
+* [index](technical-notes/untitled-2.md)
+* [index](technical-notes/untitled-3.md)
 

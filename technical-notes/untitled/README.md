@@ -11,9 +11,9 @@ description: >-
 
 **Link :** [**https://danielmiessler.com/study/dns/**](https://danielmiessler.com/study/dns/)\*\*\*\*
 
-**Link :** [**https://en.wikibooks.org/wiki/Communication\_Networks/DNS**](https://en.wikibooks.org/wiki/Communication_Networks/DNS)\*\*\*\*
+**Link :** [**https://en.wikibooks.org/wiki/Communication\_Networks/DNS**](https://en.wikibooks.org/wiki/Communication_Networks/DNS)
 
-**Example Link :** [**https://www.youtube.com/watch?v=JDc9IZVFLm0**](https://www.youtube.com/watch?v=JDc9IZVFLm0)\*\*\*\*
+**Example Link :** [**https://www.youtube.com/watch?v=JDc9IZVFLm0**](https://www.youtube.com/watch?v=JDc9IZVFLm0)
 
 Tools for DNS enumeration :
 
