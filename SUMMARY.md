@@ -7,7 +7,7 @@
 
 ## Information Gathering
 
-* [3. Information Gathering \(Active\)](information-gathering/3.-information-gathering-active/README.md)
+* [1. Information Gathering \(Active\)](information-gathering/3.-information-gathering-active/README.md)
   * [3.1 Enumeration](information-gathering/3.-information-gathering-active/enumeration/README.md)
     * [3.1.1 DNS Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.1-dns-enumeration/README.md)
       * [3.1.1.1 Basic DNS Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.1-dns-enumeration/dns-enumeration.md)
@@ -22,6 +22,13 @@
     * [3.1.7 SNMP Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.6-snmp-enumeration.md)
     * [Other Service Enumeration](information-gathering/3.-information-gathering-active/enumeration/other-service-enumeration.md)
   * [3.2 Fuzzing](information-gathering/3.-information-gathering-active/3.2-fuzzing.md)
+
+## Vulnerability Assessment
+
+* [2. Vulnerability Assessment](vulnerability-assessment/4.-vulnerability-assessment/README.md)
+  * [Nmap](vulnerability-assessment/4.-vulnerability-assessment/nmap.md)
+  * [Nikto](vulnerability-assessment/4.-vulnerability-assessment/nikto.md)
+  * [OpenVAS](vulnerability-assessment/4.-vulnerability-assessment/openvas.md)
 
 ## Technical Notes
 

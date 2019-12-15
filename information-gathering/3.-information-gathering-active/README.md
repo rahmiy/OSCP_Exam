@@ -5,7 +5,7 @@ description: >-
   information  gathering (high risk, victim could know)
 ---
 
-# 3. Information Gathering \(Active\)
+# 1. Information Gathering \(Active\)
 
 In active information gathering we generally find these 3 things.
 
