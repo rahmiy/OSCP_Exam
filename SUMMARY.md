@@ -7,8 +7,8 @@
 
 ## Information Gathering
 
-* [2. Passive Information Gathering](information-gathering/2.-passive-information-gathering.md)
-* [Google Search \(Dorks\)](information-gathering/google-search-dorks.md)
+* [2. Passive Information Gathering](information-gathering/2.-passive-information-gathering/README.md)
+  * [2.1 Google Search \(Dorks\)](information-gathering/2.-passive-information-gathering/google-search-dorks.md)
 * [3. Information Gathering \(Active\)](information-gathering/3.-information-gathering-active/README.md)
   * [3.1 Enumeration](information-gathering/3.-information-gathering-active/enumeration/README.md)
     * [3.1.1 DNS Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.1-dns-enumeration/README.md)
