@@ -21,7 +21,7 @@
       * [3.1.1.2 DNS Zone Transfer](information-gathering/3.-information-gathering-active/enumeration/3.1.1-dns-enumeration/dns-zone-transfer-practical.md)
       * [3.1.1.3 Brute Force DNS lookup](information-gathering/3.-information-gathering-active/enumeration/3.1.1-dns-enumeration/3.1.1.3-brute-force-dns-lookup.md)
     * [3.1.2 Port Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.2-port-enumeration/README.md)
-      * [3.1.2.1 Nmap Practical](information-gathering/3.-information-gathering-active/enumeration/3.1.2-port-enumeration/3.1.2.1-nmap-practical.md)
+      * [3.1.2.1 Nmap Port Scanning](information-gathering/3.-information-gathering-active/enumeration/3.1.2-port-enumeration/3.1.2.1-nmap-practical.md)
     * [3.1.3 LDAP Enumeration](information-gathering/3.-information-gathering-active/enumeration/ldap-enumeration.md)
     * [3.1.4 NetBIOS Enumeration](information-gathering/3.-information-gathering-active/enumeration/enumeration-1.md)
     * [3.1.5 SMB Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration.md)
