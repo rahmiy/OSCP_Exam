@@ -16,5 +16,8 @@ Tutorial link : [https://www.youtube.com/watch?v=kdYnSfzb3UA](https://www.youtub
 
 Nameserver and Mailservers are the most commonly accessable entries in a DNS server.
 
+## Tools in Kali linux for DNS Enumeration
 
+1. DNSrecon
+2. DNSenum
 
