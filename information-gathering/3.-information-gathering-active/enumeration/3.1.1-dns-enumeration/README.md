@@ -10,3 +10,9 @@ Link : [https://digi.ninja/projects/zonetransferme.php](https://digi.ninja/proje
 
 Tutorial link : [https://www.youtube.com/watch?v=kdYnSfzb3UA](https://www.youtube.com/watch?v=kdYnSfzb3UA)
 
+## Interacting with a DNS server
+
+![nameserver and mx\(mail\) records](../../../../.gitbook/assets/image.png)
+
+
+
