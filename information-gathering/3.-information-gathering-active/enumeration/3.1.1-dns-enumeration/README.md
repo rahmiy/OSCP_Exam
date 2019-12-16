@@ -14,5 +14,5 @@ Tutorial link : [https://www.youtube.com/watch?v=kdYnSfzb3UA](https://www.youtub
 
 ![nameserver and mx\(mail\) records](../../../../.gitbook/assets/image.png)
 
-
+Nameserver and Mailservers are the most commonly accessable entries in a DNS server.
 
