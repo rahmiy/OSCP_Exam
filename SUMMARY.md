@@ -7,6 +7,14 @@
 
 ## Information Gathering
 
+* [1. DNS](information-gathering/untitled/README.md)
+  * [1.1 DNS - Basic Enumeration](information-gathering/untitled/1.1-dns-basic-enumeration.md)
+  * [1.2 DNS - Terminologies](information-gathering/untitled/1.2-dns-terminologies.md)
+  * [1.3 DNS - Hierarchy](information-gathering/untitled/1.3-dns-hierarchy.md)
+  * [1.4 DNS - Record Types](information-gathering/untitled/1.4-dns-record-types.md)
+  * [1.5 DNS Zone transfers](information-gathering/untitled/1.5-dns-zone-transfers-theory/README.md)
+    * [1.5.1 Practical zone tranfer](information-gathering/untitled/1.5-dns-zone-transfers-theory/1.5.1-practical-zone-tranfer.md)
+  * [1.6 Forward and Reverse DNS lookups](information-gathering/untitled/1.6-forward-and-reverse-dns-lookups.md)
 * [2. Passive Information Gathering](information-gathering/2.-passive-information-gathering/README.md)
   * [2.1 Google Search \(Dorks\)](information-gathering/2.-passive-information-gathering/google-search-dorks.md)
   * [2.2 Google Hacking](information-gathering/2.-passive-information-gathering/2.2-google-hacking.md)
@@ -42,20 +50,14 @@
   * [Nmap](vulnerability-assessment/4.-vulnerability-assessment/nmap.md)
   * [Nikto](vulnerability-assessment/4.-vulnerability-assessment/nikto.md)
   * [OpenVAS](vulnerability-assessment/4.-vulnerability-assessment/openvas.md)
-* [5. Port Redirection and Tunneling](5.-port-redirection-and-tunneling.md)
+* [5. Port Redirection and Tunneling](5.-port-redirection-and-tunneling/README.md)
+  * [5.1 Port forwarding/Redirection](5.-port-redirection-and-tunneling/5.1-port-forwarding-redirection.md)
 * [6. File Transfer](4.-file-transfer/README.md)
   * [6.1 Using HFS](4.-file-transfer/4.1-using-hfs.md)
   * [6.2 Using SCP](4.-file-transfer/4.2-using-scp.md)
 
 ## Technical Notes
 
-* [1. DNS](technical-notes/untitled/README.md)
-  * [1.1 DNS - Basic Enumeration](technical-notes/untitled/1.1-dns-basic-enumeration.md)
-  * [1.2 DNS - Terminologies](technical-notes/untitled/1.2-dns-terminologies.md)
-  * [1.3 DNS - Hierarchy](technical-notes/untitled/1.3-dns-hierarchy.md)
-  * [1.4 DNS - Record Types](technical-notes/untitled/1.4-dns-record-types.md)
-  * [1.5 DNS Zone transfers - Theory](technical-notes/untitled/1.5-dns-zone-transfers-theory.md)
-  * [1.6 Forward and Reverse DNS lookups](technical-notes/untitled/1.6-forward-and-reverse-dns-lookups.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [7. Metasploit Framework](technical-notes/7.-metasploit-framework/README.md)
