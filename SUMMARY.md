@@ -26,6 +26,8 @@
     * [3.1.3 LDAP Enumeration](information-gathering/3.-information-gathering-active/enumeration/ldap-enumeration.md)
     * [3.1.5 SMB Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/README.md)
       * [3.1.5.1 SMB NetBIOS Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/enumeration-1.md)
+      * [3.1.5.2 Null Session Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/3.1.5.2-null-session-enumeration.md)
+      * [3.1.5.3 Nmap SMB NSE scripts](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/3.1.5.3-nmap-smb-nse-scripts.md)
     * [3.1.6 SMTP Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.5-smtp-enumeration.md)
     * [3.1.7 SNMP Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.6-snmp-enumeration.md)
     * [Other Service Enumeration](information-gathering/3.-information-gathering-active/enumeration/other-service-enumeration.md)
