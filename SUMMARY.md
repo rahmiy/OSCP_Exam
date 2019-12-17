@@ -25,7 +25,10 @@
       * [3.1.2.2 Nmap Port Scanning](information-gathering/3.-information-gathering-active/enumeration/3.1.2-port-enumeration/3.1.2.2-nmap-port-scanning.md)
     * [3.1.3 LDAP Enumeration](information-gathering/3.-information-gathering-active/enumeration/ldap-enumeration.md)
     * [3.1.5 SMB Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/README.md)
-      * [3.1.5.1 SMB NetBIOS Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/enumeration-1.md)
+      * [3.1.5.1 SMB NetBIOS Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/enumeration-1/README.md)
+        * [2. NetBIOS](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/enumeration-1/untitled-1/README.md)
+          * [SMB](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/enumeration-1/untitled-1/untitled-2.md)
+          * [NFS](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/enumeration-1/untitled-1/untitled-3.md)
       * [3.1.5.2 Null Session Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/3.1.5.2-null-session-enumeration.md)
       * [3.1.5.3 Nmap SMB NSE scripts](information-gathering/3.-information-gathering-active/enumeration/3.1.4-smb-enumeration/3.1.5.3-nmap-smb-nse-scripts.md)
     * [3.1.6 SMTP Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.5-smtp-enumeration.md)
@@ -35,10 +38,14 @@
 
 ## Vulnerability Assessment
 
-* [2. Vulnerability Assessment](vulnerability-assessment/4.-vulnerability-assessment/README.md)
+* [4. Vulnerability Assessment](vulnerability-assessment/4.-vulnerability-assessment/README.md)
   * [Nmap](vulnerability-assessment/4.-vulnerability-assessment/nmap.md)
   * [Nikto](vulnerability-assessment/4.-vulnerability-assessment/nikto.md)
   * [OpenVAS](vulnerability-assessment/4.-vulnerability-assessment/openvas.md)
+* [5. Port Redirection and Tunneling](5.-port-redirection-and-tunneling.md)
+* [6. File Transfer](4.-file-transfer/README.md)
+  * [6.1 Using HFS](4.-file-transfer/4.1-using-hfs.md)
+  * [6.2 Using SCP](4.-file-transfer/4.2-using-scp.md)
 
 ## Technical Notes
 
@@ -49,13 +56,7 @@
   * [1.4 DNS - Record Types](technical-notes/untitled/1.4-dns-record-types.md)
   * [1.5 DNS Zone transfers - Theory](technical-notes/untitled/1.5-dns-zone-transfers-theory.md)
   * [1.6 Forward and Reverse DNS lookups](technical-notes/untitled/1.6-forward-and-reverse-dns-lookups.md)
-* [2. NetBIOS](technical-notes/untitled-1/README.md)
-  * [SMB](technical-notes/untitled-1/untitled-2.md)
-  * [NFS](technical-notes/untitled-1/untitled-3.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
-* [4. File Transfer](technical-notes/4.-file-transfer/README.md)
-  * [4.1 Using HFS](technical-notes/4.-file-transfer/4.1-using-hfs.md)
-  * [4.2 Using SCP](technical-notes/4.-file-transfer/4.2-using-scp.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [7. Metasploit Framework](technical-notes/7.-metasploit-framework/README.md)
   * [Example](technical-notes/7.-metasploit-framework/example.md)

@@ -5,7 +5,7 @@ description: >-
   of either windows or Linux.
 ---
 
-# 4. File Transfer
+# 6. File Transfer
 
 Link : [https://burmat.gitbook.io/security/hacking/one-liners-and-dirty-scripts\#file-transfers](https://burmat.gitbook.io/security/hacking/one-liners-and-dirty-scripts#file-transfers)
 
@@ -104,7 +104,7 @@ php -S 0.0.0.0:80
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/image-13.png)
+![](../.gitbook/assets/image-13.png)
 
-![](../../.gitbook/assets/image-39.png)
+![](../.gitbook/assets/image-39.png)
 
