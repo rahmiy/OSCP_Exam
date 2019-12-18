@@ -22,9 +22,9 @@ Link : [https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-e
     * Once we have sent the mail successfully we type "bye" to exit the SMTP connection.
   * Hence, to close the connection here we have to give a keyword which tells the server to terminate the connection.
 * Using Scripting languages.
-  * like using VBscripts, a simple HTTP downloader using VBScript. On the server end we just need to serve file on our web server.
-  * like using Powershell, a simple HTTP downloader using powershell.
-  * like using debug.exe to create a code a simple downloader. Compiling the code using debug.exe. Then running this executable to download the file to victim system.
+  * \(script\) like using VBscripts, a simple HTTP downloader using VBScript. On the server end we just need to serve file on our web server.
+  * \(script\) like using Powershell, a simple HTTP downloader using powershell.
+  * \(executable\) like using debug.exe to create a code a simple downloader. Compiling the code using debug.exe. Then running this executable to download the file to victim system.
 
 ![Interactive Shell](../.gitbook/assets/image%20%2812%29.png)
 
