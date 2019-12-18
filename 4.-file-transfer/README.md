@@ -22,6 +22,10 @@ Link : [https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-e
     * Once we have sent the mail successfully we type "bye" to exit the SMTP connection.
   * Hence, to close the connection here we have to give a keyword which tells the server to terminate the connection.
 
+![Interactive Shell](../.gitbook/assets/image%20%2812%29.png)
+
+![Non-Interactive Shell](../.gitbook/assets/image%20%2811%29.png)
+
 ## List of different ways for transferring a file
 
 1. File Transfer protocols
