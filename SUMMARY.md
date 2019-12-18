@@ -50,6 +50,7 @@
   * [Nmap](vulnerability-assessment/4.-vulnerability-assessment/nmap.md)
   * [Nikto](vulnerability-assessment/4.-vulnerability-assessment/nikto.md)
   * [OpenVAS](vulnerability-assessment/4.-vulnerability-assessment/openvas.md)
+* [5. Searching for exploits](vulnerability-assessment/5.-searching-for-exploits.md)
 * [5. Port Redirection and Tunneling](5.-port-redirection-and-tunneling/README.md)
   * [5.1 Port forwarding/Redirection](5.-port-redirection-and-tunneling/5.1-port-forwarding-redirection.md)
   * [5.2 SSH Tunneling](5.-port-redirection-and-tunneling/5.2-ssh-tunneling.md)
