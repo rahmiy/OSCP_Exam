@@ -24,6 +24,7 @@ Link : [https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-e
 * Using Scripting languages.
   * like using VBscripts, a simple HTTP downloader using VBScript. On the server end we just need to serve file on our web server.
   * like using Powershell, a simple HTTP downloader using powershell.
+  * like using debug.exe to create a code a simple downloader. Compiling the code using debug.exe. Then running this executable to download the file to victim system.
 
 ![Interactive Shell](../.gitbook/assets/image%20%2812%29.png)
 
