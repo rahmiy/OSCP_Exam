@@ -44,6 +44,23 @@ Link : [https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-e
    2. Using Meterpreter
 5. Using PHP file server
 
+## Using TFTP
+
+{% tabs %}
+{% tab title="Linux TFTP Server" %}
+```text
+mkdir /tftp
+atftpd --daemon --port 69 /tftp
+```
+{% endtab %}
+
+{% tab title="Windows TFTP Client" %}
+```text
+tftp -i 192.168.1.1 get file.txt #where 192.168.1.1 is the IP address of the TFTP server
+```
+{% endtab %}
+{% endtabs %}
+
 ## Using Netcat
 
 It is a simple netcat file transfer command
