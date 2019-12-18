@@ -11,6 +11,17 @@ Link : [https://burmat.gitbook.io/security/hacking/one-liners-and-dirty-scripts\
 
 Link : [https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-exploitation/](https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-exploitation/)
 
+## Methods of file transfer
+
+* Non-interactive Shells.
+  * once it is executed, it does not require more input from the user in order to complete.
+  * Once the command is executed, the shell automatically ends the connection.
+* Interactive Shells.
+  * remember how we used to interact SMTP server using command line.
+    * we had to specify subject, email address, body, etc for mail.
+    * Once we have sent the mail successfully we type "bye" to exit the SMTP connection.
+  * Hence, to close the connection here we have to give a keyword which tells the server to terminate the connection.
+
 ## List of different ways for transferring a file
 
 1. File Transfer protocols
