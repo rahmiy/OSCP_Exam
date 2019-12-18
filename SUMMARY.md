@@ -54,6 +54,8 @@
   * [5.1 Port forwarding/Redirection](5.-port-redirection-and-tunneling/5.1-port-forwarding-redirection.md)
   * [5.2 SSH Tunneling](5.-port-redirection-and-tunneling/5.2-ssh-tunneling.md)
   * [5.3 Proxychains](5.-port-redirection-and-tunneling/untitled.md)
+  * [5.4 HTTP Tunneling](5.-port-redirection-and-tunneling/5.4-http-tunneling.md)
+  * [5.5 Traffic Encapsulation](5.-port-redirection-and-tunneling/5.5-traffic-encapsulation.md)
 * [6. File Transfer](4.-file-transfer/README.md)
   * [6.1 Using HFS](4.-file-transfer/4.1-using-hfs.md)
   * [6.2 Using SCP](4.-file-transfer/4.2-using-scp.md)
