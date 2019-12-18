@@ -48,6 +48,18 @@ Link : [https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-e
    2. Using Meterpreter
 5. Using PHP file server
 
+## Using FTP
+
+### FTP server side
+
+*  We first need to create a FTP server on our attacking machine.
+* Then we need to copy the respective file to be sent to the victim system on the root folder of the ftp server.
+* We then need to create a user using which we will transfer the files.
+
+### FTP Client side
+
+*  There are two method to use ftp client to download files, first is the default interactive shell. Another is we try to make this interactive shell non interactive by creating a text file with all the inputs written in it. The ftp client could then use the file directly instead of interactive inputs from user.
+
 ## Using TFTP
 
 {% tabs %}
