@@ -26,9 +26,9 @@ Link : [https://www.hackingarticles.in/compressive-guide-on-file-transfer-post-e
   * \(script\) like using Powershell, a simple HTTP downloader using powershell.
   * \(executable\) like using debug.exe to create a code a simple downloader. Compiling the code using debug.exe. Then running this executable to download the file to victim system.
 
-![Interactive Shell](../.gitbook/assets/image%20%2812%29.png)
+![Interactive Shell](../.gitbook/assets/image%20%2813%29.png)
 
-![Non-Interactive Shell](../.gitbook/assets/image%20%2811%29.png)
+![Non-Interactive Shell](../.gitbook/assets/image%20%2812%29.png)
 
 ## List of different ways for transferring a file
 
