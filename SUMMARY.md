@@ -42,7 +42,9 @@
     * [3.1.6 SMTP Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.5-smtp-enumeration.md)
     * [3.1.7 SNMP Enumeration](information-gathering/3.-information-gathering-active/enumeration/3.1.6-snmp-enumeration.md)
     * [Other Service Enumeration](information-gathering/3.-information-gathering-active/enumeration/other-service-enumeration.md)
-  * [3.2 Fuzzing](information-gathering/3.-information-gathering-active/3.2-fuzzing.md)
+  * [3.2 Identifying bugs in Application](information-gathering/3.-information-gathering-active/3.2-fuzzing/README.md)
+    * [3.2.1 Fuzzing](information-gathering/3.-information-gathering-active/3.2-fuzzing/3.2.1-fuzzing.md)
+    * [3.2.2 Source Code Analysis](information-gathering/3.-information-gathering-active/3.2-fuzzing/3.2.2-source-code-analysis.md)
 
 ## Vulnerability Assessment
 
