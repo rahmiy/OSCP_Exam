@@ -66,6 +66,8 @@
 ## Technical Notes
 
 * [Privilege Escalation](technical-notes/privilege-escalation/README.md)
+  * [Windows Weak Services](technical-notes/privilege-escalation/windows-weak-services.md)
+  * [Linux Weak Services](technical-notes/privilege-escalation/linux-weak-services.md)
   * [Windows Privilege Elivation](technical-notes/privilege-escalation/windows-privilege-elivation.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
