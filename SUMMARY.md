@@ -65,7 +65,8 @@
 
 ## Technical Notes
 
-* [Privilege Escalation](technical-notes/privilege-escalation.md)
+* [Privilege Escalation](technical-notes/privilege-escalation/README.md)
+  * [Windows Privilege Elivation](technical-notes/privilege-escalation/windows-privilege-elivation.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [7. Metasploit Framework](technical-notes/7.-metasploit-framework/README.md)
