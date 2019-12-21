@@ -4,7 +4,7 @@ Given we have hash dump stored in `hashes.txt`
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
-## Using john.conf
+## Using john.conf custom rules
 
 * during password proofing we get a list of string to work with.
 * We could add/mutate the list to a more password oriented list like including numbers in every string at the last.
@@ -18,5 +18,5 @@ Given we have hash dump stored in `hashes.txt`
 * `john --wordlist=file1.txt --rules --stdout > mutated.txt`
   * `--rules` : specifies john the ripper to use rules.
 
-
+ref : [https://www.gracefulsecurity.com/custom-rules-for-john-the-ripper/](https://www.gracefulsecurity.com/custom-rules-for-john-the-ripper/)
 
