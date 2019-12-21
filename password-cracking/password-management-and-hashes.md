@@ -21,5 +21,7 @@
   * from windows NT upto windows 2003
 * Lan manager hashes \(LM hashes\)
   * weak
+  * long passwords are splitted and hashed separately.
+  * the password is converted to uppercase characters before being hashed.
 * NT Lan manager hashes \(NTLM hashes\)
 
