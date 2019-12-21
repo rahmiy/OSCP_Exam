@@ -70,6 +70,7 @@
   * [Hash Cracking](password-cracking/hash-cracking/README.md)
     * [John the ripper](password-cracking/hash-cracking/john-the-ripper.md)
     * [Passing the hash](password-cracking/hash-cracking/passing-the-hash.md)
+    * [Password Profiling](password-cracking/hash-cracking/password-profiling.md)
 * [7. Web App Attacks](7.-web-app-attacks/README.md)
   * [7.1 Cross Site Scripting \(XSS\)](7.-web-app-attacks/7.1-cross-site-scripting-xss.md)
   * [7.2 File Inclusion Vulnerabilities](7.-web-app-attacks/7.2-file-inclusion-vulnerabilities.md)
