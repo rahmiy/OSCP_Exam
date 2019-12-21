@@ -15,3 +15,7 @@
   * windows 7 : asd
   * windows 10 : 
 * 
+## Windows Password Management
+
+* Windows stores password in security account manager \(SAM\).
+* 
