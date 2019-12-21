@@ -69,6 +69,7 @@
     * [Medusa](password-cracking/online-password-cracking/medusa.md)
     * [Ncrack](password-cracking/online-password-cracking/ncrack.md)
     * [Hydra](password-cracking/online-password-cracking/hydra.md)
+    * [Performance of cracking](password-cracking/online-password-cracking/performance-of-cracking.md)
   * [Password Dump](password-cracking/password-dump/README.md)
     * [PWdump and FGdump](password-cracking/password-dump/pwdump-and-fgdump.md)
     * [WCE](password-cracking/password-dump/wce.md)
