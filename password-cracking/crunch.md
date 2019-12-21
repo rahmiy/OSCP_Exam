@@ -31,3 +31,11 @@ ref : [http://adaywithtape.blogspot.com/2011/05/creating-wordlists-with-crunch-v
 * `%` , numeric characters
 * `^` , special characters\(including spaces\)
 
+### Example 3
+
+pattern : Abc\#$012
+
+* `crunch 8 8 -t ,@@^^%%% | more`
+
+
+
