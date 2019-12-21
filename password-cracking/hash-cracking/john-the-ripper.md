@@ -4,6 +4,8 @@ Given we have hash dump stored in `hashes.txt`
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
+* John the ripper has pattern matching feature which could identify generic hashes only. Automatically.
+
 ## Using john.conf custom rules
 
 * during password proofing we get a list of string to work with.
