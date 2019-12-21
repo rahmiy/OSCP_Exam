@@ -71,6 +71,7 @@
   * [Windows Weak Services](technical-notes/privilege-escalation/windows-weak-services.md)
   * [Linux Weak Services](technical-notes/privilege-escalation/linux-weak-services.md)
   * [Windows Privilege Elivation](technical-notes/privilege-escalation/windows-privilege-elivation.md)
+* [Working of session](technical-notes/working-of-session.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [7. Metasploit Framework](technical-notes/7.-metasploit-framework/README.md)
@@ -90,5 +91,4 @@
     * [8.3.2 Example 2](technical-notes/8.-nmap-theory/8.3-writing-nse-scripts/8.3.2-example-2.md)
     * [8.3.3 Example 3](technical-notes/8.-nmap-theory/8.3-writing-nse-scripts/8.3.3-example-3.md)
   * [8.4 Nmap API](technical-notes/8.-nmap-theory/8.4-nmap-api.md)
-* [Working of session](technical-notes/working-of-session.md)
 
