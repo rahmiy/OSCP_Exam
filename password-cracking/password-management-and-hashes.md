@@ -18,4 +18,8 @@
 ## Windows Password Management
 
 * Windows stores password in security account manager \(SAM\).
-* 
+  * from windows NT upto windows 2003
+* Lan manager hashes \(LM hashes\)
+  * weak
+* NT Lan manager hashes \(NTLM hashes\)
+
