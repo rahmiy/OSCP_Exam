@@ -1,5 +1,5 @@
 ---
-description: like methods of fuzzing.
+description: like methods of fuzzing and then attacks.
 ---
 
 # Unsanitized User Inputs
@@ -9,4 +9,6 @@ description: like methods of fuzzing.
    1. Remote file inclusion \(RFI\)
    2. Local file inclusion \(LFI\)
 3. SQL Injection
+
+
 
