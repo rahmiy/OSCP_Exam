@@ -18,11 +18,17 @@
 ## Windows Password Management
 
 * Windows stores password in security account manager \(SAM\).
-  * from windows NT upto windows 2003
+* The same database cannot be copied while the window OS is running. A file system lock is done by kernel on the SAM.
+  * Hence, In memory attacks are used to dump the SAM. 
 * Lan manager hashes \(LM hashes\)
+  * from windows NT upto windows 2003
   * weak
   * long passwords are splitted and hashed separately.
   * the password is converted to uppercase characters before being hashed.
   * no salts.
 * NT Lan manager hashes \(NTLM hashes\)
+  * from windows vista onwards. Windows have disabled LT hashes.
+  * case sensitive
+  * support all unicode characters.
+  * no salts.
 
