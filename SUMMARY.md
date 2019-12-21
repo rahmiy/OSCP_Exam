@@ -73,6 +73,7 @@
   * [Linux Weak Services](technical-notes/privilege-escalation/linux-weak-services.md)
   * [Windows Privilege Elivation](technical-notes/privilege-escalation/windows-privilege-elivation.md)
 * [Working of session](technical-notes/working-of-session.md)
+* [Unsanitized User Inputs](technical-notes/unsanitized-user-inputs.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [7. Metasploit Framework](technical-notes/7.-metasploit-framework/README.md)
