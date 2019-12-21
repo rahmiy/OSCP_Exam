@@ -62,6 +62,7 @@
 * [6. File Transfer](4.-file-transfer/README.md)
   * [6.1 Using HFS](4.-file-transfer/4.1-using-hfs.md)
   * [6.2 Using SCP](4.-file-transfer/4.2-using-scp.md)
+* [Password Cracking](password-cracking.md)
 * [7. Web App Attacks](7.-web-app-attacks/README.md)
   * [7.1 Cross Site Scripting \(XSS\)](7.-web-app-attacks/7.1-cross-site-scripting-xss.md)
   * [7.2 File Inclusion Vulnerabilities](7.-web-app-attacks/7.2-file-inclusion-vulnerabilities.md)
