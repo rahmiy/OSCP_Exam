@@ -24,3 +24,5 @@
 
 **The account "mike" has only has admin rights on one machine. So we call account "mike" is a local administrator privileges. And the attack to fetch the username and password of the account "mike" is called as local privilege escalation.**
 
+**Network\(all machines of that network\) Privilege escalation vs Machine\(just a single machine\) privilege escalation**
+
