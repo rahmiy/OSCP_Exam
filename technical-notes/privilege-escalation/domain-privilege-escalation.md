@@ -5,9 +5,9 @@
 
 ## Local level privilege escalation vs Domain level privilege escalation
 
-Local level privilege escalation gives us NT AUTHORITY\SYSTEM
+Local level privilege escalation gives us `NT AUTHORITY\SYSTEM` authorization.
 
-Domain level privilege escalation gives us MYDOMAIN\mike
+Domain level privilege escalation gives us `MYDOMAIN\mike` authorization.
 
 ## A hypothetical scenario
 
