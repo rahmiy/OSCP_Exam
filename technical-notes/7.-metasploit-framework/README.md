@@ -53,4 +53,7 @@ I have written an example to get more detail of methodology.
 1. setg : to set global values.
 2. db\_\* : the results of such commands will be stored in the postgresql database.
 3. When using exploit modules\(complete attack automation\) in metasploit, we could specify the payload which the exploit should use. But generally we use windows/linux reverse shell payload for our attacks.
-4. 
+4. staged vs non staged payload.
+   1. staged is like we send a small part of attack, get reverse connection and send the larger chunk of the attack.
+   2. nonstage the complete payload is sent.
+

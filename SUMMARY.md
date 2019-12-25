@@ -92,6 +92,7 @@
   * [Windows Privilege Elivation](technical-notes/privilege-escalation/windows-privilege-elivation.md)
 * [AV Evasion](technical-notes/av-evasion.md)
 * [7. Metasploit Framework](technical-notes/7.-metasploit-framework/README.md)
+  * [payloads](technical-notes/7.-metasploit-framework/payloads.md)
   * [Practical Example](technical-notes/7.-metasploit-framework/example.md)
   * [Meterpreter Shell](technical-notes/7.-metasploit-framework/meterpreter-shell/README.md)
     * [Example](technical-notes/7.-metasploit-framework/meterpreter-shell/example.md)
