@@ -6,7 +6,7 @@
 
 ## What is Metasploit Framework?
 
-Metasploit is a penetration testing framework that enables you to find, exploit, and validate vulnerabilities.
+Metasploit is a penetration testing framework that enables you to find, exploit, and validate vulnerabilities. It could be used in any phases of phase of penetration testing.
 
 ### Example of a methodology without pentest framework and one with pentest framework.
 
