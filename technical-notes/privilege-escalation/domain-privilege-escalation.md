@@ -3,7 +3,7 @@
 * privilege escalation just means that if you are not supposed to have admin rights and you doing some stuff got admin rights, this is called privilege escalation.
 * In this article we will discuss on authority of admin account
 
-## Local privilege escalation vs Domain privilege escalation
+## Local level privilege escalation vs Domain level privilege escalation
 
 * Given we have an internal environment that we are try to get into, say "mydomain.org".
 * You found the weakest system in the network, which was running some legacy OS and you successfully compromised it.
