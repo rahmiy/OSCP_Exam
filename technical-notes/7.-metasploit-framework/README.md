@@ -48,3 +48,9 @@ I have written an example to get more detail of methodology.
 * We could easily use results obtained from nmap to other tools directly without the need of writing a script to do so. We also do not have to worry of parsing the output so that the new module would accept this. 
 * If some features are not present in metasploit, we could develop metasploit modues for more automation of daily tasks with full customization based on the users need.
 
+## Notes
+
+1. setg : to set global values.
+2. db\_\* : the results of such commands will be stored in the postgresql database.
+3. When using exploit modules\(complete attack automation\) in metasploit, we could specify the payload which the exploit should use. But generally we use windows/linux reverse shell payload for our attacks.
+4. 
