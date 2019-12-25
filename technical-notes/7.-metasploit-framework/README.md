@@ -6,7 +6,7 @@
 
 ## What is Metasploit Framework?
 
-Metasploit is a penetration testing framework that enables you to find, exploit, and validate vulnerabilities. It could be used in any phases of phase of penetration testing.
+Metasploit is a penetration testing framework that enables you to find, exploit, and validate vulnerabilities.
 
 ### Example of a methodology without pentest framework and one with pentest framework.
 
@@ -47,13 +47,4 @@ I have written an example to get more detail of methodology.
 
 * We could easily use results obtained from nmap to other tools directly without the need of writing a script to do so. We also do not have to worry of parsing the output so that the new module would accept this. 
 * If some features are not present in metasploit, we could develop metasploit modues for more automation of daily tasks with full customization based on the users need.
-
-## Notes
-
-1. setg : to set global values.
-2. db\_\* : the results of such commands will be stored in the postgresql database.
-3. When using exploit modules\(complete attack automation\) in metasploit, we could specify the payload which the exploit should use. But generally we use windows/linux reverse shell payload for our attacks.
-4. staged vs non staged payload.
-   1. staged is like we send a small part of attack, get reverse connection and send the larger chunk of the attack.
-   2. nonstage the complete payload is sent.
 
