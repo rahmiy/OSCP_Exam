@@ -5,9 +5,11 @@
 
 ## Local level privilege escalation vs Domain level privilege escalation
 
-After Local level privilege escalation we get `NT AUTHORITY\SYSTEM` authorization.
+After Local level privilege escalation we get `NT AUTHORITY\SYSTEM` authorization. There is no possibility of using this account for other machine access.
 
-After Domain level privilege escalation we get`MYDOMAIN\mike` authorization.
+After Domain level privilege escalation we get`MYDOMAIN\mike` authorization. It could be such that john has authorization to more than one machine.
+
+![local account vs domain account](../../.gitbook/assets/image%20%283%29.png)
 
 ## A hypothetical scenario
 
