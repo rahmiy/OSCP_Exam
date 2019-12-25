@@ -90,6 +90,7 @@
   * [Windows Weak Services](technical-notes/privilege-escalation/windows-weak-services.md)
   * [Linux Weak Services](technical-notes/privilege-escalation/linux-weak-services.md)
   * [Windows Privilege Elivation](technical-notes/privilege-escalation/windows-privilege-elivation.md)
+* [AV Evasion](technical-notes/av-evasion.md)
 * [Working of session](technical-notes/working-of-session.md)
 * [Unsanitized User Inputs](technical-notes/unsanitized-user-inputs.md)
 * [3. LDAP](technical-notes/3.-ldap.md)

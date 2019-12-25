@@ -7,7 +7,7 @@ description: Windows Credential Editor
 * Security tool to obtain password dump.
 * Steal NTLM credentials form memory dump clear text password stored by windows authentication  packages.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 
 
