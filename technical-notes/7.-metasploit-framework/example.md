@@ -2,7 +2,7 @@
 description: This is an example of a pentest attack for educational purposes only.
 ---
 
-# Example
+# Practical Example
 
 ## Step 1 : Starting metasploit
 
