@@ -31,8 +31,12 @@ An alternative way could be, say when we compromised the first machine, we fetch
 * Here "mike" account just have local administration privileges, means the account "mike" is only allowed to login to one system i.e. our compromised machine. The account "mike" is useless if we use it to login to other system, even in the same network or any other network machine. So for analogy mike could be an employee.
 * Next we have "john" account, which has more access than "mike" account. Using "john" account I was able to access all the system in the same network of that of the compromised machine. The account "john" has more authorization than account "mike". But account "john" was useless for machines on other networks. For analogy john could be manager of mike.
 * Next we have admin\_kim, now using this account I was able to access all the machine either in the network or any other network. Which means admin\_kim has more authorization than john and probably the highest authorization possible. For analogy kim could be a administrator who manages all the system in the complete organization. 
+* "admin\_kim" is a more authoritative domain account, as compared to other domains accounts like "mike" and "john"
 
-**"admin\_kim" is a more authoritative domain account, as compared to other domains accounts like "mike" and "john"**
+1. **Local Privilege escalation -** given the machine is not in domain, we create a standard user "account\_all". If after exploit we got "account\_all" credentials we call the attack as local privilege escalation.
+2. **Local admin privilege escalation -** if after attack we got `NT AUTHORITY\SYSTEM` privileges then we call it local admin privilege escalation. like if we got access to password of "administrator" for a system.
+3. **Domain privilege escalation -** if we got access to `MYDOMAIN\mike`we call it domain privilege escalation. Mike mike do not have authorization for other system in network domain.
+4. **Domain admin privilege escalation -** if we got access to `MYDOMAIN\admin_kim` we call it domain admin privilege escalation.
 
 **Network\(all machines of that network\) Privilege escalation vs Machine\(just a single machine\) privilege escalation**
 
