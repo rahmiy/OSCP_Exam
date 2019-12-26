@@ -10,5 +10,7 @@
 
 ## Enumeration
 
-* `order by 1` followed by 2, 3, 4.. is used for column enumeration.
+* column enumeration :`order by 1` followed by 2, 3, 4..
+* 
+
 
