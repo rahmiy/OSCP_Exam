@@ -81,7 +81,7 @@
 * [7. Web App Attacks](7.-web-app-attacks/README.md)
   * [7.1 Cross Site Scripting \(XSS\)](7.-web-app-attacks/7.1-cross-site-scripting-xss.md)
   * [7.2 File Inclusion Vulnerabilities](7.-web-app-attacks/7.2-file-inclusion-vulnerabilities.md)
-  * [7.3 SQL Injection](7.-web-app-attacks/7.3-sql-injection/README.md)
+  * [7.3 SQL Injection](7.-web-app-attacks/7.3-sql-injection.md)
     * [SQL for OSCP](7.-web-app-attacks/7.3-sql-injection/sql-for-oscp.md)
 
 ## Technical Notes
@@ -98,6 +98,7 @@
   * [Practical Example](technical-notes/7.-metasploit-framework/example.md)
   * [Meterpreter Shell](technical-notes/7.-metasploit-framework/meterpreter-shell/README.md)
     * [Example](technical-notes/7.-metasploit-framework/meterpreter-shell/example.md)
+* [One-liner Reverse Shell](technical-notes/one-liner-reverse-shell.md)
 * [Working of session](technical-notes/working-of-session.md)
 * [Unsanitized User Inputs](technical-notes/unsanitized-user-inputs.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
