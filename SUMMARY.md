@@ -81,7 +81,7 @@
 * [7. Web App Attacks](7.-web-app-attacks/README.md)
   * [7.1 Cross Site Scripting \(XSS\)](7.-web-app-attacks/7.1-cross-site-scripting-xss.md)
   * [7.2 File Inclusion Vulnerabilities](7.-web-app-attacks/7.2-file-inclusion-vulnerabilities.md)
-  * [7.3 SQL Injection](7.-web-app-attacks/7.3-sql-injection.md)
+  * [7.3 SQL Injection](7.-web-app-attacks/7.3-sql-injection/README.md)
     * [SQL for OSCP](7.-web-app-attacks/7.3-sql-injection/sql-for-oscp.md)
 
 ## Technical Notes
