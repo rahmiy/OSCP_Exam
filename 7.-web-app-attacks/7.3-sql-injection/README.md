@@ -7,8 +7,8 @@
 * Blind SQL
   * First we need to check whether our input affects the output of the SQL query, as error reporting is disabled.
   * Use this method if verbose error are not enabled.
-  * We could make use of 
-    * sleep\(\) - command execution
+  * We could make use of SQL commands, if you are able to execute one command, you can get a reverse shell. Like if sleep\(\) command is successful you could get reverse shell.
+    * sleep\(\)
     * IF\(MID\(\)\) - conditional command execution
     * load\_file\("path to file"\) - to print contents of a file given its file path.
     * into OUTFILE
