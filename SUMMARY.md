@@ -99,6 +99,7 @@
     * [Example](technical-notes/7.-metasploit-framework/meterpreter-shell/example.md)
 * [Working of session](technical-notes/working-of-session.md)
 * [Unsanitized User Inputs](technical-notes/unsanitized-user-inputs.md)
+* [SQL for OSCP](technical-notes/sql-for-oscp.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [8. Nmap - Theory](technical-notes/8.-nmap-theory/README.md)
