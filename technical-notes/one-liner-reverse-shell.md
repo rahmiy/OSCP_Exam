@@ -1,5 +1,8 @@
 # One-liner Reverse Shell
 
+## How to solve the problem of multiple quotes in a single command while designing a payload?
+
+* 
 ## UDP Reverse shells
 
 #### Bash UDP
