@@ -12,6 +12,7 @@
     * IF\(MID\(\)\) - conditional command execution
     * into OUTFILE
     * union select
+    * get reverse shells.
 
 ## Check if webapp is vulnerable to SQL Injection
 
