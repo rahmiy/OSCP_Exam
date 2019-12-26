@@ -7,6 +7,10 @@
 * Blind SQL
   * First we need to check whether our input affects the output of the SQL query, as error reporting is disabled.
   * Use this method if verbose error are not enabled.
+  * We could make use of 
+    * sleep\(\)
+    * into OUTFILE
+    * union select
 
 ## Check if webapp is vulnerable to SQL Injection
 
