@@ -25,5 +25,5 @@
 * Then we need to change the exploit first to "shell\_to\_meterpreter".
   * `use post/multi/manage/shell_to_meterpreter`
 * 
-
+![TCP connection states](../../../.gitbook/assets/image%20%2817%29.png)
 
