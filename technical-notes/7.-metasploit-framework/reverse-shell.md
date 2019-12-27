@@ -15,4 +15,6 @@
     * windows listener payload windows/shell/reverse\_tcp
     * linux listener payload payload linux/x86/shell/reverse\_tcp
   * meterpreter shell
+    * windows listener payload windows/meterpreter/reverse\_tcp
+    * linux listener payload linux
 
