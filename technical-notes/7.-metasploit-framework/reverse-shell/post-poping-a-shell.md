@@ -9,3 +9,6 @@
 
 ## Enumerate OS version
 
+* Windows 
+  * systeminfo
+* 
