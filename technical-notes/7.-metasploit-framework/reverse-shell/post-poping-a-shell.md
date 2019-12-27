@@ -4,6 +4,7 @@
 
 * Windows
   * whoami /all
+  * getuid \(meterpreter\)
 * Linux
   * 
 
