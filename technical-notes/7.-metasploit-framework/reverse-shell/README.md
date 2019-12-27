@@ -24,6 +24,16 @@
 * You need to create a new session. Either Ctrl+z or `background`.
 * Then we need to change the exploit first to "shell\_to\_meterpreter".
   * `use post/multi/manage/shell_to_meterpreter`
-* 
+
+
+
+## List active sessions and process
+
+* Linux \(search for port 4444\)
+  * lsof -t -i:4444
+  * netstat -a \| grep 4444
+* Linux
+  * netstat -a
+
 ![TCP connection states](../../../.gitbook/assets/image%20%2817%29.png)
 

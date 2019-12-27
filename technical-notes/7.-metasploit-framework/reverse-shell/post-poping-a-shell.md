@@ -13,3 +13,5 @@
 * Windows 
   * systeminfo
 * 
+## Enumerate root/privilege files with execute permissions
+
