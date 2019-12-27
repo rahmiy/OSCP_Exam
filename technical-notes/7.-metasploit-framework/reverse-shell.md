@@ -21,9 +21,9 @@
 ## Upgrade Shell to meterpreter shell
 
 * You need to have a metasploit listener for netcat.
-* You need to create a new session. 
-* `use post/multi/manage/shell_to_meterpreter`
-* d
-
+* You need to create a new session. Either Ctrl+z or `background`.
+* Then we need to change the exploit first to "shell\_to\_meterpreter".
+  * `use post/multi/manage/shell_to_meterpreter`
+* 
 
 
