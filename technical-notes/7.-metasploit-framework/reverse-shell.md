@@ -11,7 +11,7 @@
 * `set lhost 192.168.1.10`.
 * `set lport 4444`.
 * Then we need to specify the payload,
-  * netcat shell
+  * netcat shell \([https://netsec.ws/?p=292](https://netsec.ws/?p=292)\)
     * windows listener payload windows/shell/reverse\_tcp
     * linux listener payload payload linux/x86/shell/reverse\_tcp
   * meterpreter shell
