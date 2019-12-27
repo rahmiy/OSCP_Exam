@@ -38,10 +38,21 @@
 * Windows
   * netstat -a
 
+### Managing "jobs" in metsploit framework
+
+* List all jobs
+  * jobs
+* Kill all jobs
+  * jobs -K
+* Jobs help
+  * help jobs
+* 
 ### Killing a session
 
 * Linux \(killing service with pid\)
   * kill -9 1234
+
+
 
 ![TCP connection states](../../../.gitbook/assets/image%20%2817%29.png)
 
