@@ -27,13 +27,21 @@
 
 
 
-## List active sessions and process
+## Session Management
+
+### List active sessions and process
 
 * Linux \(search for port 4444\)
   * lsof -t -i:4444
   * netstat -a \| grep 4444
-* Linux
+  * ps
+* Windows
   * netstat -a
+
+### Killing a session
+
+* Linux \(killing service with pid\)
+  * kill -9 1234
 
 ![TCP connection states](../../../.gitbook/assets/image%20%2817%29.png)
 
