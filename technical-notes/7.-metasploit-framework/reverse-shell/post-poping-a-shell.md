@@ -15,3 +15,5 @@
 * 
 ## Enumerate root/privilege files with execute permissions
 
+![](../../../.gitbook/assets/image%20%2826%29.png)
+
