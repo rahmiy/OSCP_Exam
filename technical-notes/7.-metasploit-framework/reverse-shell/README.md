@@ -33,10 +33,10 @@
 
 * Linux \(search for port 4444\)
   * lsof -t -i:4444
-  * netstat -a \| grep 4444
+  * netstat -ano \| grep 4444
   * ps
 * Windows
-  * netstat -a
+  * netstat -ano
 
 ### Managing "jobs" in metsploit framework
 
