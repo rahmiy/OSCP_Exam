@@ -98,6 +98,7 @@
   * [Practical Example](technical-notes/7.-metasploit-framework/example.md)
   * [Reverse Shell](technical-notes/7.-metasploit-framework/reverse-shell/README.md)
     * [Post poping a shell](technical-notes/7.-metasploit-framework/reverse-shell/post-poping-a-shell.md)
+    * [Enumeration](technical-notes/7.-metasploit-framework/reverse-shell/enumeration.md)
   * [Meterpreter Shell](technical-notes/7.-metasploit-framework/meterpreter-shell/README.md)
     * [Example](technical-notes/7.-metasploit-framework/meterpreter-shell/example.md)
 * [One-liner Reverse Shell](technical-notes/one-liner-reverse-shell.md)

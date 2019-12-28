@@ -25,8 +25,6 @@
 * Then we need to change the exploit first to "shell\_to\_meterpreter".
   * `use post/multi/manage/shell_to_meterpreter`
 
-
-
 ## Session Management
 
 ### List active sessions and process
