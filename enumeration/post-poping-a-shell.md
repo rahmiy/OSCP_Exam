@@ -9,6 +9,12 @@
 * `migrate PID`
   * where `PID` is the process ID of a NT AUTHORITY\SYSTEM.
 
+### Getsystem
+
+Type getsystem and magically Meterpreter elevates you from a local administrator to the SYSTEM user.
+
+* `getsystem`
+
 
 
 
