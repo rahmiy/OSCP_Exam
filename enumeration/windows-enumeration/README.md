@@ -4,15 +4,11 @@
 
 * cmd prompt
   * whoami /all
-* meterpreter
-  * getuid
 
 ### Enumerate OS version
 
 * cmd prompt
   * systeminfo
-* meterpreter
-  * sysinfo
 
 ### print file contents
 
