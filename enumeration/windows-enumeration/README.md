@@ -12,7 +12,7 @@
 
 ### print file contents
 
-* more file1.txt
+* type file1.txt
 
 ### Search for files and folders with Admin privileges writable by other users
 
