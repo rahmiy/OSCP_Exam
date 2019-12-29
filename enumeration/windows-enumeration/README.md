@@ -10,3 +10,7 @@
 * Windows 
   * systeminfo
 
+### Search for files and folders with Admin privileges writable by other users
+
+
+

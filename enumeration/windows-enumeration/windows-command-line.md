@@ -4,6 +4,8 @@
 
 ![https://theitbros.com/using-icacls-to-list-folder-permissions-and-manage-files/](../../.gitbook/assets/untitled-picture.png)
 
+
+
 ## Older vs Newer Windows
 
 ### 1 - To get File permissions
