@@ -53,7 +53,7 @@
   * [Nmap](vulnerability-assessment/4.-vulnerability-assessment/nmap.md)
   * [Nikto](vulnerability-assessment/4.-vulnerability-assessment/nikto.md)
   * [OpenVAS](vulnerability-assessment/4.-vulnerability-assessment/openvas.md)
-* [Enumeration](enumeration/README.md)
+* [Enumeration \(Privilege Escalation\)](enumeration/README.md)
   * [Windows Enumeration](enumeration/windows-enumeration/README.md)
     * [Windows Command Line](enumeration/windows-enumeration/windows-command-line.md)
   * [Linux Enumeration](enumeration/linux-enumeration.md)
