@@ -57,7 +57,7 @@
   * [Windows Enumeration](enumeration/windows-enumeration/README.md)
     * [Windows Command Line](enumeration/windows-enumeration/windows-command-line.md)
   * [Linux Enumeration](enumeration/linux-enumeration.md)
-  * [Meterpreter Enumeration](enumeration/post-poping-a-shell.md)
+  * [Post poping a meterpreter shell](enumeration/post-poping-a-shell.md)
 * [5. Port Redirection and Tunneling](5.-port-redirection-and-tunneling/README.md)
   * [5.1 Port forwarding/Redirection](5.-port-redirection-and-tunneling/5.1-port-forwarding-redirection.md)
   * [5.2 SSH Tunneling](5.-port-redirection-and-tunneling/5.2-ssh-tunneling.md)
