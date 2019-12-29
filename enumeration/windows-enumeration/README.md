@@ -2,15 +2,27 @@
 
 ### Enumerate user and user privileges
 
-* whoami /all
-* getuid \(meterpreter\)
+* cmd prompt
+  * whoami /all
+* meterpreter
+  * getuid
 
 ### Enumerate OS version
 
-* Windows 
+* cmd prompt
   * systeminfo
+* meterpreter
+  * sysinfo
+
+### print file contents
+
+* more file1.txt
 
 ### Search for files and folders with Admin privileges writable by other users
+
+![](../../.gitbook/assets/image%20%2829%29.png)
+
+
 
 
 
