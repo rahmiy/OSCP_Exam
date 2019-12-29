@@ -2,7 +2,7 @@
 description: like methods of fuzzing and then attacks.
 ---
 
-# Unsanitized User Inputs
+# Unsanitized User Inputs Summary
 
 1. Cross site scripting vulnerability
 2. File Inclusion vulnerability

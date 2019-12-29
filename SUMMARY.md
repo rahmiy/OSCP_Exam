@@ -88,6 +88,7 @@
   * [7.2 File Inclusion Vulnerabilities](7.-web-app-attacks/7.2-file-inclusion-vulnerabilities.md)
   * [7.3 SQL Injection](7.-web-app-attacks/7.3-sql-injection/README.md)
     * [SQL for OSCP](7.-web-app-attacks/7.3-sql-injection/sql-for-oscp.md)
+  * [Unsanitized User Inputs Summary](7.-web-app-attacks/unsanitized-user-inputs.md)
 
 ## Technical Notes
 
@@ -107,7 +108,6 @@
     * [Example](technical-notes/7.-metasploit-framework/meterpreter-shell/example.md)
 * [One-liner Reverse Shell](technical-notes/one-liner-reverse-shell.md)
 * [Working of session](technical-notes/working-of-session.md)
-* [Unsanitized User Inputs](technical-notes/unsanitized-user-inputs.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [8. Nmap - Theory](technical-notes/8.-nmap-theory/README.md)
