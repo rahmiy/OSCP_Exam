@@ -23,6 +23,10 @@
 
 ![](../../.gitbook/assets/image%20%2841%29.png)
 
+## List Services in windows
+
+*  tasklist /SVC
+
 ## Accesschk
 
 to know what kind of accesses specific users or groups have to resources including files, directories, Registry keys, global objects and Windows services.
