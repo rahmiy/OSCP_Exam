@@ -16,3 +16,5 @@ The use of enumeration is to find all the possible opening on the victim, which 
 
 > Improper enumeration could lead to failed pentesting. Which it very harmful because other malicious attackers could exploit the unexplored enumeration.
 
+FTP : [https://www.howtoforge.com/tutorial/how-to-use-ftp-on-the-linux-shell/](https://www.howtoforge.com/tutorial/how-to-use-ftp-on-the-linux-shell/)
+
