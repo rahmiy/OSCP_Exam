@@ -110,6 +110,7 @@
   * [One-liner Reverse Shell](technical-notes/reverse-shell/one-liner-reverse-shell.md)
   * [Metasploit Reverse Shells](technical-notes/reverse-shell/metasploit-reverse-shells.md)
 * [Working of session](technical-notes/working-of-session.md)
+* [Compiling C/C++ code](technical-notes/compiling-c-c++-code.md)
 * [3. LDAP](technical-notes/3.-ldap.md)
 * [5. msfvenom](technical-notes/5.-msfvenom.md)
 * [8. Nmap - Theory](technical-notes/8.-nmap-theory/README.md)
