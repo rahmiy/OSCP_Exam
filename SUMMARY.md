@@ -55,6 +55,7 @@
   * [OpenVAS](vulnerability-assessment/4.-vulnerability-assessment/openvas.md)
 * [Enumeration \(Privilege Escalation\)](enumeration/README.md)
   * [Windows Enumeration](enumeration/windows-enumeration/README.md)
+    * [windows priv escalation](enumeration/windows-enumeration/windows-priv-escalation.md)
     * [Windows Interesting Files](enumeration/windows-enumeration/windows-command-line.md)
   * [Linux Enumeration](enumeration/linux-enumeration.md)
   * [Post poping a meterpreter shell](enumeration/post-poping-a-shell.md)

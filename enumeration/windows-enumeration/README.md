@@ -16,9 +16,9 @@
 
 ### Search for files and folders with Admin privileges writable by other users
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ## Accesschk
 
