@@ -27,6 +27,10 @@
 
 *  tasklist /SVC
 
+## Print environment variables
+
+* set
+
 ## Accesschk
 
 to know what kind of accesses specific users or groups have to resources including files, directories, Registry keys, global objects and Windows services.
