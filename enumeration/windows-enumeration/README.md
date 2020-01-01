@@ -3,7 +3,8 @@
 ### Enumerate user and user privileges
 
 * cmd prompt
-  * net user
+  * net users
+  * net user _username_ 
   * whoami /all
 
 ### Enumerate OS version
