@@ -6,6 +6,7 @@ Ref:
 * [https://www.youtube.com/watch?v=kMG8IsCohHA](https://www.youtube.com/watch?v=kMG8IsCohHA)
 * [https://www.youtube.com/watch?v=\_8xJaaQlpBo](https://www.youtube.com/watch?v=_8xJaaQlpBo)
 * [http://www.greyhathacker.net/?p=738](http://www.greyhathacker.net/?p=738)
+* [http://blogs.technet.com/b/markrussinovich/archive/2006/05/01/the-power-in-power-users.aspx](http://blogs.technet.com/b/markrussinovich/archive/2006/05/01/the-power-in-power-users.aspx)
 
 
 
