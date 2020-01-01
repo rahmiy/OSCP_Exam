@@ -23,7 +23,9 @@
 
 ![](../../.gitbook/assets/image%20%2841%29.png)
 
-[https://www.cyberciti.biz/tips/windows-change-access-permissions-from-the-command-line.html](https://www.cyberciti.biz/tips/windows-change-access-permissions-from-the-command-line.html)
+{% embed url="https://www.cyberciti.biz/tips/windows-change-access-permissions-from-the-command-line.html" %}
+
+* C : change \(Modify\)
 
 ## List Services in windows
 
