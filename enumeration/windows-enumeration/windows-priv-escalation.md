@@ -1,5 +1,13 @@
 # windows priv escalation
 
+Ref: 
+
+* [https://www.youtube.com/watch?v=kMG8IsCohHA](https://www.youtube.com/watch?v=kMG8IsCohHA)
+* [https://www.youtube.com/watch?v=\_8xJaaQlpBo](https://www.youtube.com/watch?v=_8xJaaQlpBo)
+* [http://www.greyhathacker.net/?p=738](http://www.greyhathacker.net/?p=738)
+
+
+
 * What system are we connected to? 
   * systeminfo \| findstr /B /C:"OS Name" /C:"OS Version"
 * Get the hostname and username \(if available\) 
