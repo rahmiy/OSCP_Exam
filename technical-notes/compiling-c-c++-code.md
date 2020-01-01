@@ -1,6 +1,6 @@
 # Compiling C/C++ code
 
-## compiling c code for windows environment
+## compiling c code in linux for windows environment
 
 Installing the cross-compilation
 
@@ -21,4 +21,10 @@ x86_64-w64-mingw32-gcc -o test.exe test.c
 ```
 
 ref : [https://stackoverflow.com/questions/44670209/how-to-compile-c-code-in-linux-to-run-on-windows](https://stackoverflow.com/questions/44670209/how-to-compile-c-code-in-linux-to-run-on-windows)
+
+## compiling c code in linux for linux environment
+
+* `gcc test.c -o exec_run`
+
+
 
