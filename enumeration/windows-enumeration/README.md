@@ -16,6 +16,10 @@
 
 * type file1.txt
 
+### print file path
+
+* file file1.txt
+
 ### Search for files and folders with Admin privileges writable by other users
 
 ![](../../.gitbook/assets/image%20%2836%29.png)
