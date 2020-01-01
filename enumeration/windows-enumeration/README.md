@@ -20,6 +20,8 @@
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
+![](../../.gitbook/assets/image%20%2841%29.png)
+
 ## Accesschk
 
 to know what kind of accesses specific users or groups have to resources including files, directories, Registry keys, global objects and Windows services.
